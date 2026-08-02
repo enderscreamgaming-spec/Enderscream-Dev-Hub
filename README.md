@@ -8,6 +8,6 @@ Here you can find my ports, including:
 
 - **More ports will be added over time. Stay tuned!**
 
-# Disclamer :
+# Disclaimer :
 - All the ports available here are developed by a single person (me), so updates and new releases may take some time. Thank you for your patience!
 
