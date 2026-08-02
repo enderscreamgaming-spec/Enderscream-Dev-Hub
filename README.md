@@ -1,6 +1,6 @@
 # Enderscream-Dev-Hub
 
-This is my UniStore for Universal Updater.
+**This is my UniStore for Universal Updater.**
 
 Here you can find my ports, including:
 
@@ -9,5 +9,5 @@ Here you can find my ports, including:
 - **More ports will be added over time. Stay tuned!**
 
 # Disclamer :
-- **All the ports you'll see here are developed by just one person (me), so that can affect the release pace.**
+- All the ports available here are developed by a single person (me), so updates and new releases may take some time. Thank you for your patience!
 
