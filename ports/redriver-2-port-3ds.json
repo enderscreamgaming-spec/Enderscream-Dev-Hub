@@ -1,0 +1,13 @@
+{
+	"github": "enderscreamgaming-spec/REDRIVER-2-Port-3DS",
+	"systems": [
+		"3DS"
+	],
+	"categories": [
+		"game"
+	],
+	"llm_generation": "no",
+	"icon": "https://raw.githubusercontent.com/enderscreamgaming-spec/REDRIVER-2-Port-3DS/main/REDRIVER%202.png",
+	"download_filter": "Driver, REDRIVER, Driver 2, REDRIVER 2",
+	"preinstall_message": "This port needs the files of the original games into 3ds/redriver2/Driver2/ the original files "
+}
