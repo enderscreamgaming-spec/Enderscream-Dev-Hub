@@ -25,4 +25,4 @@ The UniStore **"Enderscream Game Hub"** should now appear in the list.
 
 **- 2nd method :** 
 
-You can scan the **Qr code** in the release, or click here : 
+You can scan the **Qr code** in the release, or click here : https://github.com/enderscreamgaming-spec/Enderscream-Dev-Hub/releases/tag/qrcode
