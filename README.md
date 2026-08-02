@@ -18,7 +18,7 @@ All the ports available here are developed by a single person (me), so updates a
 
 1. Copy the Raw URL of `Enderscream-Dev-Hub.unistore`:
 
-- https://raw.githubusercontent.com/enderscreamgaming-spec/Enderscream-Dev-Hub/refs/heads/main/Enderscream%20Dev%20Hub.unistore`
+-  https://raw.githubusercontent.com/enderscreamgaming-spec/Enderscream-Dev-Hub/refs/heads/main/Enderscream%20Dev%20Hub.unistore`
 
 2. Open **Universal Updater** on your Nintendo 3DS.
 
