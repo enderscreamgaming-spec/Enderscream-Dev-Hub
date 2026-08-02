@@ -14,7 +14,7 @@ Here you can find my ports, including:
 ## Installation
 
 **- 1st method :**
-1. Download or copy the raw URL of `Enderscream-Dev-Hub.unistore`.
+1. Download or copy the raw URL of `Enderscream-Dev-Hub.unistore`. **( 
 2. Open **Universal Updater** on your Nintendo 3DS.
 3. Go to **Settings** → **Select UniStore**.
 4. Choose **Add UniStore**.
@@ -25,4 +25,4 @@ The UniStore **"Enderscream Game Hub"** should now appear in the list.
 
 **- 2nd method :** 
 
-You can scan the Qr code in the 
+You can scan the **Qr code** in the release, or click here : 
