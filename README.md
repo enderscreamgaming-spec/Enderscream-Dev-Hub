@@ -8,3 +8,6 @@ Here you can find my ports, including:
 
 - **More ports will be added over time. Stay tuned!**
 
+# Disclamer :
+- **All the ports you'll see here are developed by just one person (me), so that can affect the release pace.**
+
