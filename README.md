@@ -1,6 +1,10 @@
 # Enderscream-Dev-Hub
-Its my Unistore for Universal Updater, you can find ports like :
-  
-- Driver 2
 
-- Other ports are going to arrive as you go along
+This is my UniStore for Universal Updater.
+
+Here you can find my ports, including:
+
+- **Driver 2 (REDRIVER 2 3DS)**
+
+- **More ports will be added over time. Stay tuned!**
+
