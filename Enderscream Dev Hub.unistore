@@ -1,0 +1,34 @@
+{
+  "storeInfo": {
+    "title": "Enderscream Dev Hub",
+    "author": "Enderscream",
+    "description": "Ports et projets Nintendo 3DS par Enderscream",
+    "url": "https://raw.githubusercontent.com/enderscreamgaming-spec/Enderscream-Dev-Hub/main/Enderscream-Dev-Hub.unistore",
+    "file": "Enderscream-Dev-Hub.unistore",
+    "revision": 1,
+    "version": 4
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "REDRIVER 2 3DS",
+        "author": "Enderscream",
+        "description": "Port of Driver 2 on Nintendo 3DS",
+        "category": [
+          "game"
+        ],
+        "console": [
+          "3DS"
+        ],
+        "version": "1-alpha"
+      },
+      "REDRIVER2.3dsx": [
+        {
+          "type": "downloadFile",
+          "file": "https://github.com/enderscreamgaming-spec/REDRIVER-2-Port-3DS/releases/latest/download/REDRIVER2.3dsx",
+          "output": "%3DSX%/REDRIVER2.3dsx"
+        }
+      ]
+    }
+  ]
+}
