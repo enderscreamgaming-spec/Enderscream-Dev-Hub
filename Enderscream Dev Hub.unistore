@@ -1,3 +1,4 @@
+```json
 {
   "storeInfo": {
     "title": "Enderscream Dev Hub",
@@ -5,7 +6,7 @@
     "description": "Ports et projets Nintendo 3DS par Enderscream",
     "url": "https://raw.githubusercontent.com/enderscreamgaming-spec/Enderscream-Dev-Hub/main/Enderscream-Dev-Hub.unistore",
     "file": "Enderscream-Dev-Hub.unistore",
-    "revision": 1,
+    "revision": 2,
     "version": 4
   },
   "storeContent": [
@@ -29,6 +30,28 @@
           "output": "%3DSX%/REDRIVER2.3dsx"
         }
       ]
+    },
+    {
+      "info": {
+        "title": "OpenLara Remastered 3DS",
+        "author": "Enderscream",
+        "description": "A 3DS port of OpenLara Remastered, featuring Tomb Raider I-III",
+        "category": [
+          "game"
+        ],
+        "console": [
+          "3DS"
+        ],
+        "version": "1-alpha"
+      },
+      "OpenLara.3dsx": [
+        {
+          "type": "downloadFile",
+          "file": "https://github.com/enderscreamgaming-spec/-Work-in-progress-OpenLara-Remastered/releases/download/portage/OpenLara.3dsx",
+          "output": "%3DSX%/OpenLara.3dsx"
+        }
+      ]
     }
   ]
 }
+```
