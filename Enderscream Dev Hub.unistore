@@ -5,15 +5,15 @@
 "description": "Ports et projets Nintendo 3DS par Enderscream",
 "url": "https://raw.githubusercontent.com/enderscreamgaming-spec/Enderscream-Dev-Hub/main/Enderscream-Dev-Hub.unistore",
 "file": "Enderscream-Dev-Hub.unistore",
-"revision": 3,
+"revision": 4,
 "version": 4
 },
 "storeContent": [
 {
 "info": {
 "title": "REDRIVER 2 3DS",
-"author": "Enderscream Port Studio",
-"description": "Port of Driver 2 on Nintendo 3DS WARNING : the files of the original game have to be place at SD/3ds/REDRIVER2/Driver2",
+"author": "Enderscream",
+"description": "Port of Driver 2 on Nintendo 3DS",
 "category": [
 "game"
 ],
@@ -33,8 +33,8 @@
 {
 "info": {
 "title": "OpenLara Remastered 3DS",
-"author": "Enderscream Port Studio",
-"description": "A 3DS port of OpenLara Remastered, featuring Tomb Raider I-III WARNING : the files of the original game have to be place at : SD/3ds/OpenLara ",
+"author": "Enderscream",
+"description": "A 3DS port of OpenLara Remastered, featuring Tomb Raider I-III",
 "category": [
 "game"
 ],
